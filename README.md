@@ -7,7 +7,7 @@ A tiny terminal app that helps you to keep track of your development journey wit
 For now the only place where the app is available is on pip. The plan is to make it available on apt and other package managers.
 
 ```bash
-  pip install keepregister
+  $ pip install keepregister
 ```
 
 ### Usage
