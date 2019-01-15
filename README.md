@@ -10,4 +10,8 @@ First argument is the file name, which if not exists will be created. The second
 $ keepregister example.txt "Today i had some problem with the database and i'm waiting the DB manager to fix this."
 ```
 
+and the output will be ...
+
+> 14/01/2019 08:00 - Today i had some problem with the database and i'm waiting the DB manager to fix this.
+
 Simple as that!!!
